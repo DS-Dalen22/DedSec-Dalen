@@ -1,4 +1,4 @@
-#Hi, I'm Dalen 👋  
+# Hi, I'm Dalen 👋  
 
 I'm currently studying the Data Analyst stack (PowerBI, PostgreSQL)  
 and gradually expanding into Data Science through Python and ML projects.
